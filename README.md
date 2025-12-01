@@ -10,7 +10,7 @@ Setup instructions
 1. Clone/download this folder so you can push it to your own public GitHub repository (deliverable requirement).
 2. Ensure you can sign in to Google Docs with permissions to create/edit docs in the correct Workspace.
 3. (Optional) Edit `notes/meeting_notes.md` if you need to tweak the meeting content before running the notebook.
- 
+  
 Repository contents
 -------------------
 - `colab/meeting_doc_formatter.ipynb` – Colab notebook that installs dependencies, authenticates, parses Markdown, and generates the Google Doc.
