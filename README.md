@@ -15,7 +15,7 @@ Repository contents
 -------------------
 - `colab/meeting_doc_formatter.ipynb` – Colab notebook that installs dependencies, authenticates, parses Markdown, and generates the Google Doc.
 - `notes/meeting_notes.md` – Source Markdown for the Product Team Sync meeting; update this if you need different content.
-
+ 
 Required dependencies
 ---------------------
 Colab ships with Python 3 and most Google auth packages, but the notebook explicitly installs/upgrades:
